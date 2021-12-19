@@ -1,0 +1,23 @@
+{
+  "name": "instagram-reels-video-downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "instagram",
+    "reels",
+    "video",
+    "downloader",
+    "scraper",
+    "nodejs"
+  ],
+  "author": "burakseyitkara",
+  "license": "ISC",
+  "dependencies": {
+    "all-video-downloader": "^1.0.9",
+    "open": "^8.4.0"
+  }
+}
